@@ -1,7 +1,7 @@
-## Favorite Movie
+# Favorite Movie
 My favorite movie is **Heaven is for Real.**
 
-# Description
+## Description
 Heaven is for Real is a movie about a boy named Colton, who claimed to have visited Heaven during a near-death experience.
 
 **Main Characters**
